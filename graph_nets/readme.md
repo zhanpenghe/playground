@@ -15,3 +15,4 @@ pip install -r requirements.txt
 * [A simple neural network module for relational reasoning](https://arxiv.org/abs/1706.01427)
 * [Deriving Neural Architectures from Sequence and Graph Kernels](https://arxiv.org/abs/1705.09037)
 * [Interaction Networks for Learning about Objects, Relations and Physics](https://arxiv.org/pdf/1612.00222.pdf)
+* [Structured Sequence Modeling With Graph Convolutional Recurrent Networks](https://arxiv.org/abs/1612.07659)  ([implementation](https://github.com/youngjoo-epfl/gconvRNN))
